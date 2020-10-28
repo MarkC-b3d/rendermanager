@@ -26,7 +26,7 @@ if [ $YNV1 = y ]; then
 fi
 
 if [ $YNV1 = n ]; then
-  renderimage
+  init
 fi
 }
 
